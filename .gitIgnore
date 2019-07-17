@@ -2,5 +2,7 @@
 *.dll
 *.class
 *.jar
+![Bb]in
 [Bb]in/
-!resources/*.dll
+![Bb]in/resources
+![Bb]in/resources/*.dll
