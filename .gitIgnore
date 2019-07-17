@@ -1,0 +1,6 @@
+#this is my ignore file
+*.dll
+*.class
+*.jar
+[Bb]in/
+!resources/*.dll
